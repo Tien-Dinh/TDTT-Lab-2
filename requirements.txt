@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+firebase-admin
+Pyrebase4
+pydantic[email]
+requests
+setuptools==64.0.0
