@@ -57,3 +57,4 @@
    ```
    * Hệ thống giao diện sẽ tự động mở trên trình duyệt tại: `http://localhost:8501`.
 ## 5. Liên kết đến video demo
+https://drive.google.com/file/d/1K_LJ_bWprYHuGg8j4PzD_GVg-RCaDiig/view?usp=drive_link 
